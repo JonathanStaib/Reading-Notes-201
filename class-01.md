@@ -32,4 +32,21 @@
 - 2. The anatomy of an HTML element is the opening tag the content then the closing tag, unless an img or something or the sort.
 - 3. Both 'artcle' and 'section' are content subsections of the 'main'. The difference between the two is that section is more for grouping together one part if the page showing one functionality.
 - 4. A Typical website will include the doctype, a head with a title, a header with a nav and header, a main with articles, p's, images, etc. and a footer. Much more but this is just the base.
-- 5. Meta will bring you to a website in your selected language of your browser/computer. 
+- 5. Meta will bring you to a website in your selected language of your browser/computer. This is just a guess but maybe there is a way in meta that you can add keywords to the search engine to bring people looking for a specific word or phrase to your article? Yes, it can. Just found out.
+- 6. Meta tag can be used to specify a lot of data, the language, it can also show the author and a description of the article.
+
+## Miscellaneous
+
+- 1. The first things you need to do before making a website is planning the website. Think of how you want it structured the layout maybe a few colors, keep it simple ( a wireframe).Some ideas you can have in mind are what do you need to accomplish, how will this site help you reach your goals and what needs to be done to reach them. Also, maybe the audience your'e trying to bring in to your site.
+
+- 2. I feel the most important question to ask yourself when making a website is "What exactly do I want to accomplish?"
+
+## Semantics
+
+- 1. You should use a H1 element over a span elemnt in your top level heading because it would lose semantic value even if it may look like a top level heading.
+- 2. Important reasons to use semantics are that search engines use their contents as keywords for clients browsing and boosting ratings. It helps visually impaired users navigate your site. Finding meaningful code is easier than searching your lots of complicated excessive code. 
+
+## What is Javascript?
+
+- 1. 
+- 2. You can add Javascript to an HTML document via internal javascript by putting it in the code directly or external javascript where you do the javascript in a seperate file and just link the file into your html.
