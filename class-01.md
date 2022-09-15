@@ -48,5 +48,5 @@
 
 ## What is Javascript?
 
-- 1. 
+- 1. Things that require JavaScript in the browser are User interactivity and the Console for developers.
 - 2. You can add Javascript to an HTML document via internal javascript by putting it in the code directly or external javascript where you do the javascript in a seperate file and just link the file into your html.
