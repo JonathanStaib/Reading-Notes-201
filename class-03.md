@@ -14,6 +14,13 @@
 
 ## JavaScript
 
+- 1. Arrays can store many kinds of data types including strings, numbers, objects etc.
+- 2. No because I dont think there should be two [[]]
+- 3. 5 different shorthand operators are the addition assignment written as x += f(), this means x = x + f(). Another is subraction written as x -= f(), this means x = x + f(). Another is multiplication written as x *= f(), meaning x = x * f(). Another one is division written as x /= f(). meaning x = x / f(). Lastly, which there are more but not listed here, we have remainder written as x%= f() meaning x = x % f(). All of these are pretty self explanatory.
+- 4. The result would be 10dog because you cant add a boolean and it just takes the number 10 and adds the string dog after it. such as 2 + '2' would be 22.
+- 5. when doing algebra
+- 6. An exmaple of when a loop is useful in Javascript would be entering a password.
+
 # Class 03 Lecture Noets
 
 ## Arrays
