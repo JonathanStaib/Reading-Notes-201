@@ -21,6 +21,11 @@
 - 1. The difference beyween a function declaration and invocation is that in a declaration you are defining a variable or declaring it, then you have to invoke or call the function to let it run. They work together but are not the same.
 - 2. The difference between arguments and parameters are that arguments are the values passed during the functions call. Parameters are the values defined at the time of the creation of the function. 
 
+### Benefits to Pair Programming
+
+- Greater efficiency: this is useful because it is great to have another pair of eyes when working on code. Maybe you will miss something completetly obvious. Also it is nice to have another person to talk to so you aren't sitting at your computer 9 hours a day going insane.
+- Social Skills: It is definetly a way to improve your social skills as well as getting better speaking about your code. It is one thing to be able to write code but voicing and describing what is going on is a much different story. Again it also nice to talk to someone every now and then for mental health purposes.
+
 ## Class 4 Lecture Notes
 
 ### CSS positioning
