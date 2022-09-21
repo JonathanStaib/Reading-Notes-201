@@ -19,7 +19,7 @@
 ### Learn JS
 
 - 1. The difference beyween a function declaration and invocation is that in a declaration you are defining a variable or declaring it, then you have to invoke or call the function to let it run. They work together but are not the same.
-- 2. The difference between arguments and parameters are that arguments are the values passed during the functions call. Parameters are the values defined at the time of the creation of the function. 
+- 2. The difference between arguments and parameters are that arguments are the values passed during the functions call. Parameters are the values defined at the time of the creation of the function.
 
 ### Benefits to Pair Programming
 
