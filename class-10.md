@@ -1,5 +1,19 @@
 # Class 10 Notes
 
+## CLass 10 Reading Notes
+
+### What Went Wrong? Troubleshooting JavaScript
+
+1. The difference between syntax errors and logic errors is that syntax errors are misspells in the code that cause it to not work. Logic errors are errors where the syntax is correct but the code is not what it should be and it runs successfully but does not give the right results out of this code. Logic errors sound scary. :(
+2. I have had many different syntax errors, usually just a missed closing curly brace or a missing semi-colon. I first check my code and see if the lint points out anything and if nothing I will then check the console on my live server. If still nothing then I will console log at different points and see where the problem is.
+3. Bug fixing can be quite fun, it is kind of like a puzzle or a maze trying to find where and why the problem is occuring. I hope that in the long term I dont have many bugs to fix but I would say I can do it rather quickly and enjoying it can never be a bad thing.
+
+### The JavaScript Debugger
+
+1. The JavaScript Debugger tool is a good and easy way to find where your problems are and why your code may not be running as you intend for it to. You can make breakpoints so that your code will run up to a certain point and see if certain sections are working and wittle down where the problem is.
+2. I just went over it above, You can make breakpoints so that your code will run up to a certain point and see if certain sections are working and wittle down where the problem is.
+3. The call stack shows what code was used to get to a certain line that you are on.
+
 ## Class 10 Lecture Notes
 
 ### Ways to Debug
