@@ -1,5 +1,20 @@
 # Class 09 Notes
 
+## Class 09 Reading Notes
+
+### HTML Forms
+
+1. Web Forms are important because They are a good way  of interaction between a suer and the website or app. They can be used to store information based on user input and then gather data based on whos coming to your page. This can be used for advertising and marketing teams. They can use this data to see who their audience is, this could be used for every team in the company actually.
+2. When designing a form, some key points to keep in mind for the user are the length of the page, you don't want to frustrate them with an overwhelming form, keep it simple. Before you coee your form think about it and what you want to ask your users. 
+3. 5 form elements are form, label, input, textarea, and button. The importance of these are form is to create a form, label is to give a caption or what this line will say, input is to create what they will be doing with this label such as a button or a checkbox or a date or email, etc. , textarea will provide them with a text box in whcih they can input their text, button would be a way to submit the data that the user has entered.
+
+### Learn JS
+
+1. If I had to explain events to a non-techincal friend I would say if you click a button or something of the sort and it creates an action or some type of "event" to do something that is an event. Like youtube with a play/pause button if they are still confused.
+2. The two minimum arguments with an addEventListener are the name of the event and a function to handle this said event.
+3. Event objects are used to automatically pass additional information or features to your event handlers. Your target is useful within the event beacuse it references which element the event should occur on.
+4. The difference between the bubbling phase and the capturing phase is that they are complete opposites. The capturing phase once the click event occurs it moves on to the next element in the html element and runs until it reaches the parent that the element was clicked. In bubbling it does the same with starting when the click event occurs but it then starts at the next immediate element and runs until it reaches the html element.
+
 ## Class 09 Lecture Notes
 
 ### Events
