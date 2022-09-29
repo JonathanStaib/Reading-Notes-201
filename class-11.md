@@ -1,5 +1,25 @@
 # Class 11 Notes
 
+## Class 11 Reading Notes
+
+### Video and Audio Content
+
+1. The differences in the evolution of video and audio on the web has they have changed drastically in terms of security and accessibility from Flash and Silverlight to video and audio elements
+2. In a video element the src contains the path to the video you want embeded. the control element is used to control the video with things such as play pause and a volume level adjustment.
+3. The fallback content is a paragraph inside the video tags, this is important for users using older browsers taht dont support the video element, You can at least provide some text in which they will know what it was and you can add a link to the direct video file for them as well.
+4. There once was two brothers Audio Element and Video Element. They both wanted to be stars but could not work together! Audio Element was a great singer and had a great voice for media but he was never able to get a way to display himself. Video Element was a great gfx designer and was trying to make it onto the big screen with the videos he was making. After many years the brothers were never able to achieve success until they paired together and put themselves together in a brand called Metadata! Now they are living their dreams. I am not an Author.
+
+### A Complete Guide To Grid
+
+1. The difference between Grid and FlexBox is that grid is a two-dimensional layout system that is grid like, while flexbox is a one-dimensional CSS styling type. They do work very well together though!
+2. Grid container is all of the content you would like to be inside of your grid and be able to style as pleased. Grid item would be your items within your grid such as pictures that you can assign the column and row you would like it to be placed. Grid lines are the lines that seperate each column and row and you can write 2,3 for your grid items to place it in the unit you would like it to be in.
+
+### Responsive Images
+
+1. Other than changing the size of the image with the browser responsive images also help improve performance across different devices and also give access to other featrues.
+2. srcset is used to add image sources foe the user agent to use. Sizes can be used to set the size of an image.
+3. srcset is better than using CSS or JavaScript when using responsive images because without srcset, you are unable to use the sizes attribute because it will have no effect.
+
 ## Class 11 Lecture Notes
 
 ### CSS Grid
